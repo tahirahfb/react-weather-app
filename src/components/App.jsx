@@ -1,6 +1,7 @@
 import Location from './Location';
 import Header from './Header';
 import Footer from './Footer';
+import '../index.css';
 
 
 
