@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/tahirahfb/react-weather-app.git/static/js/main.8255cb2b.js",
+    "static/media/weather_app_final_logo.png": "/tahirahfb/react-weather-app.git/static/media/weather_app_final_logo.718357bcdb97baf10b03.png",
+    "index.html": "/tahirahfb/react-weather-app.git/index.html",
+    "main.8255cb2b.js.map": "/tahirahfb/react-weather-app.git/static/js/main.8255cb2b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8255cb2b.js"
+  ]
+}
